@@ -1,0 +1,4 @@
+#Tue May 18 10:54:55 CEST 2021
+base.0=/Users/paolafalcomata/Documents/personal-android-projects/udacity-dice-roller/DiceRoller/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

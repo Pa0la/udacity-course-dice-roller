@@ -1,0 +1,4 @@
+com/paola/udacitycourse/diceroller/databinding/ActivityMainBinding.java
+ com.paola.udacitycourse.diceroller.databinding.ActivityMainBinding
+com/paola/udacitycourse/diceroller/BuildConfig.java
+ com.paola.udacitycourse.diceroller.BuildConfig
